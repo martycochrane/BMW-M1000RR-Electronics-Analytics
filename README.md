@@ -9,4 +9,4 @@ A working repository of tool kits I've built to help me Analyse and work on the 
 - Motec Dash & Data Logger into Motec i2 Standard 1.1
 - Championship: IDM 2022
 
-[Sandro](/img/sandro.jpg)
+![Sandro](/img/sandro.jpg)
