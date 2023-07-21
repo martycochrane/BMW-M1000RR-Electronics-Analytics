@@ -7,7 +7,7 @@ A working repository of tool kits I've built to help me Analyse and work on the 
 - Kit Electronics
 - BMW Race Calibration 2019 with ECU Software 016_006 Type5 (soon to be upgraded to 2022)
 - Motec Dash & Data Logger into Motec i2 Standard 1.1
-- Championship: IDM 2022
+- Championship: IDM 2023
 
 ![Sandro](/img/sandro.jpg)
 
@@ -22,3 +22,10 @@ Below you can see two examples taken from turn 5 at Redbull Ring. The idea is to
 |Example 1                      | Example 2                     |
 |-------------------------------|-------------------------------|
 | ![TC1](/img/objectiveTC1.png) | ![TC2](/img/objectiveTC2.png) |
+
+## How to use
+- Checkout desired folder (RCK19 or RCK22)
+- Make sure latest version of python3 is installed on the computer
+- Open directory in an IDE like VS Code or in a python notebook environment
+- Run example python file
+- If you get any errors for missing libraries then install those libraries with `pip install`
