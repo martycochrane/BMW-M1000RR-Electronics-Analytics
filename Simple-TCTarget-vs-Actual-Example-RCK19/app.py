@@ -1,7 +1,7 @@
 # Run this app with `python app.py` and
 # visit http://127.0.0.1:8050/ in your web browser.
 
-from dash import Dash, html, dcc
+from dash import Dash, html, dcc, Input, Output, State
 import pandas as pd
 from operator import indexOf
 import numpy as np
@@ -86,6 +86,7 @@ fig.update_layout(scene = dict(
 
 app.layout = html.Div(children=[
     html.H1(children='BMW M1000RR Analytics Toolkit'),
+    html.Button('Update', id='updateGraph', n_clicks=0),
 
     dcc.Graph(
         id='example-graph',
