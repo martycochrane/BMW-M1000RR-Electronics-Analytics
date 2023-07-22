@@ -28,9 +28,17 @@ Below you can see two examples taken from turn 5 at Redbull Ring. The idea is to
 | ![TC1](/img/objectiveTC22-1.png) | ![TC2](/img/objectiveTC22-2.png) |
 ## Handy Tools
 
+### Visualise All TC Maps
+
 In the RCK22 example there is a tool called ALL-MAPS which helps visualise all the different Traction Control Maps ontop of each other that you set in the corresponding excel file
 
 ![All Maps](/img/allmaps.png)
+
+### Visualise EB Open Loop vs Closed Loop Interaction
+
+In the Engine Brake Example Folder you will find a simple way to show your chosen engine brake map vs what's happening on the bike. This will be developed a bit further but this is the first step
+
+![Engine Brake](/img/EBExample.png)
 
 ## How to use
 - Checkout desired folder (RCK19 or RCK22)
