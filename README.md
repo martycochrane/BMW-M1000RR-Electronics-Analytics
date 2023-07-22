@@ -23,6 +23,12 @@ Below you can see two examples taken from turn 5 at Redbull Ring. The idea is to
 |-------------------------------|-------------------------------|
 | ![TC1](/img/objectiveTC1.png) | ![TC2](/img/objectiveTC2.png) |
 
+## Handy Tools
+
+In the RCK22 example there is a tool called ALL-MAPS which helps visualise all the different Traction Control Maps ontop of each other that you set in the corresponding excel file
+
+![All Maps](/img/allmaps.png)
+
 ## How to use
 - Checkout desired folder (RCK19 or RCK22)
 - Make sure latest version of python3 is installed on the computer
