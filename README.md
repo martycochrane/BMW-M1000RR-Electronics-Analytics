@@ -40,6 +40,12 @@ In the Engine Brake Example Folder you will find a simple way to show your chose
 
 ![Engine Brake](/img/EBExample.png)
 
+### Suspension Histograms
+
+If you don't have a motec Pro License then you can't see suspension histograms in the software. This allows you to export all data as a CSV and visualise it here
+
+![Suspension Histogram](/img/histogram.png)
+
 ## How to use
 - Checkout desired folder (RCK19 or RCK22)
 - Make sure latest version of python3 is installed on the computer
