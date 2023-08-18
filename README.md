@@ -51,6 +51,7 @@ If you don't have a motec Pro License then you can't see suspension histograms i
 |Version 2                                       |
 |------------------------------------------------|
 | ![Suspension Histogram](/img/histogram-v2.png) |
+| ![Suspension Histogram](/img/histogram-table.png) |
 
 
 
