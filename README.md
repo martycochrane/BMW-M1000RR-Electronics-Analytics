@@ -25,7 +25,7 @@ Below you can see two examples taken from turn 5 at Redbull Ring. The idea is to
 
 |RCK22 Example 1                |RCK22 Example 2                |
 |-------------------------------|-------------------------------|
-| ![TC1](/img/objectiveTC22-1.png) | ![TC2](/img/objectiveTC22-2.png) |
+| ![TC1](/img/example.gif) | ![TC2](/img/objectiveTC22-2.png) |
 ## Handy Tools
 
 You will need to export your data from i2 in CSV format and manually remove any lines that appear before the column names like below
