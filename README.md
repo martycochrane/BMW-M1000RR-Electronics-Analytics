@@ -28,10 +28,6 @@ Below you can see two examples taken from turn 5 at Redbull Ring. The idea is to
 | ![TC1](/img/rck22-example1.gif) | ![TC2](/img/rck22-example2.gif) |
 ## Handy Tools
 
-You will need to export your data from i2 in CSV format and manually remove any lines that appear before the column names like below
-
-![CSV](/img/csvExample.png)
-
 ### Visualise All TC Maps
 
 In the RCK22 example there is a tool called ALL-MAPS which helps visualise all the different Traction Control Maps ontop of each other that you set in the corresponding excel file
