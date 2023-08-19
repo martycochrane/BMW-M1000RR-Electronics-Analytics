@@ -36,7 +36,7 @@ A simple plot of the circuit map with a coloured TPS Trace
 
 In the RCK22 example there is a tool called ALL-MAPS which helps visualise all the different Traction Control Maps ontop of each other that you set in the corresponding excel file
 
-![All Maps](/img/allmaps.png)
+![All Maps](/img/allMaps.gif)
 
 ### Visualise EB Open Loop vs Closed Loop Interaction
 
