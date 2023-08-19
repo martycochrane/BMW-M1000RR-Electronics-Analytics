@@ -28,6 +28,10 @@ Below you can see two examples taken from turn 5 at Redbull Ring. The idea is to
 | ![TC1](/img/rck22-example1.gif) | ![TC2](/img/rck22-example2.gif) |
 ## Handy Tools
 
+A simple plot of the circuit map with a coloured TPS Trace
+
+![All Maps](/img/map.png)
+
 ### Visualise All TC Maps
 
 In the RCK22 example there is a tool called ALL-MAPS which helps visualise all the different Traction Control Maps ontop of each other that you set in the corresponding excel file
